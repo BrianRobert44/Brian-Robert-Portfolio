@@ -34,7 +34,7 @@ const About = () => {
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             I'm a passionate front-end developer with a strong foundation in modern web technologies. 
             Currently expanding my expertise into full-stack development while creating beautiful, 
-            user-centric digital experiences.
+            user-centric digital experiences
           </p>
         </div>
 
